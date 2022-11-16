@@ -1,0 +1,56 @@
+[
+  {
+    "title": "title 1",
+    "price": 100,
+    "thumbnail": "./espejo1.jpg",
+    "id": 1
+  },
+  {
+    "title": "title 2",
+    "price": 200,
+    "thumbnail": "./pintura2.jpg",
+    "id": 2
+  },
+  {
+    "title": "title 3",
+    "price": 300,
+    "thumbnail": "./accesorio4.jpg",
+    "id": 3
+  },
+  {
+    "title": "title 4",
+    "price": 400,
+    "thumbnail": "./pintura2.jpg",
+    "id": 4
+  },
+  {
+    "title": "title 5",
+    "price": 500,
+    "thumbnail": "./espejo1.jpg",
+    "id": 5
+  }
+]  {
+    "title": "title 6",
+    "price": 600,
+    "thumbnail": "./pintura2.jpg",
+    "id": 6
+  },
+  {
+    "title": "title 7",
+    "price": 700,
+    "thumbnail": "./accesorio4.jpg",
+    "id": 7
+  },
+  {
+    "title": "title 7",
+    "price": 700,
+    "thumbnail": "./accesorio4.jpg",
+    "id": 8
+  },
+  {
+    "title": "title 7",
+    "price": 700,
+    "thumbnail": "./accesorio4.jpg",
+    "id": 9
+  }
+]
